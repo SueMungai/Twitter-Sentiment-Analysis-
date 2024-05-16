@@ -1,3 +1,1 @@
 # Twitter Sentiment Analysis
-
-Mentorness
